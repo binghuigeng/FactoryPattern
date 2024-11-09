@@ -1,6 +1,6 @@
 #include <iostream>
 #include "ConcreteFactory.h"
-#include "ConcreteProduct.h"
+#include "Product.h"
 
 using namespace std;
 
